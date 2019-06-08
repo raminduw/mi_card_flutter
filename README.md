@@ -1,6 +1,6 @@
 
 # MCard ☁
-This is a sample dart/flutter application which has simple UI and custom font..
+This is a sample dart/flutter application which has simple UI and custom font.
 
 ### Technologies:
 a) Flutter</br> 
