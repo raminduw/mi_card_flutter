@@ -6,4 +6,4 @@ This is a sample dart/flutter application which has simple UI and custom font..
 a) Flutter</br> 
 b) Dart</br>
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+
